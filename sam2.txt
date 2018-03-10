@@ -1,0 +1,11 @@
+Jan 1@Purchased goods worth 10,000 in cash
+Jan 2@Paid electricity bill of 5,000
+Jan 3@Provided services to customers and received Rs. 10,000.
+Jan 4@Paid 5,000 as dividends to share holders.
+Jan 5@Paid wages to its employees, aggregating 50,000
+Jan 6@Purchased office supplies costing 5,200
+Jan 7@Sold goods worth 25,000 to Mr. Raj.
+Jan 8@An amount of $36,000 was paid as advance rent.
+Jan 9@Garlands worth Rs. 1,000 was purchased.
+Jan 10@Postal charges of Rs. 500 was paid.
+Jan 11@Ramu bought tables and chairs for office use at Rs. 10,000.

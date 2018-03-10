@@ -1,0 +1,24 @@
+Input:  Jan 2@An amount of $36,000 was paid as advance rent for three months.
+
+Output:  [('an', 'DT'), ('amount', 'NN'), ('of', 'IN'), ('$', '$'), ('36,000', 'CD'), ('was', 'VBD'), ('paid', 'VBN'), ('as', 'IN'), ('advance', 'NN'), ('rent', 'NN'), ('for', 'IN'), ('three', 'CD'), ('months', 'NNS'), ('.', '.')]
+Input:  Jan 13@Provided services to its customers and received $28,500 in cash.
+
+Output:  [('provided', 'VBN'), ('services', 'NNS'), ('to', 'TO'), ('its', 'PRP$'), ('customers', 'NNS'), ('and', 'CC'), ('received', 'VBD'), ('$', '$'), ('28,500', 'CD'), ('in', 'IN'), ('cash', 'NN'), ('.', '.')]
+Input:  Jan 14@Paid wages to its employees for first two weeks of January, aggregating $19,100.
+
+Output:  [('paid', 'VBN'), ('wages', 'NNS'), ('to', 'TO'), ('its', 'PRP$'), ('employees', 'NNS'), ('for', 'IN'), ('first', 'JJ'), ('two', 'CD'), ('weeks', 'NNS'), ('of', 'IN'), ('january', 'JJ'), (',', ','), ('aggregating', 'VBG'), ('$', '$'), ('19,100', 'CD'), ('.', '.')]
+Input:  Jan 25@Received $4,000 as an advance payment from customers.
+
+Output:  [('received', 'VBD'), ('$', '$'), ('4,000', 'CD'), ('as', 'IN'), ('an', 'DT'), ('advance', 'JJ'), ('payment', 'NN'), ('from', 'IN'), ('customers', 'NNS'), ('.', '.')]
+Input:  Jan 26@Purchased office supplies costing $5,200 on account.
+
+Output:  [('purchased', 'VBN'), ('office', 'NN'), ('supplies', 'NNS'), ('costing', 'VBG'), ('$', '$'), ('5,200', 'CD'), ('on', 'IN'), ('account', 'NN'), ('.', '.')]
+Input:  Jan 28@Paid wages to its employees for the third and fourth week of January: $19,100.
+
+Output:  [('paid', 'VBN'), ('wages', 'NNS'), ('to', 'TO'), ('its', 'PRP$'), ('employees', 'NNS'), ('for', 'IN'), ('the', 'DT'), ('third', 'JJ'), ('and', 'CC'), ('fourth', 'JJ'), ('week', 'NN'), ('of', 'IN'), ('january', 'NN'), (':', ':'), ('$', '$'), ('19,100', 'CD'), ('.', '.')]
+Input:  Jan 31@Paid $5,000 as dividends.
+
+Output:  [('paid', 'VBN'), ('$', '$'), ('5,000', 'CD'), ('as', 'IN'), ('dividends', 'NNS'), ('.', '.')]
+Input:  Jan 31@Received electricity bill of $2,470.
+
+Output:  [('received', 'VBN'), ('electricity', 'JJ'), ('bill', 'NN'), ('of', 'IN'), ('$', '$'), ('2,470', 'CD'), ('.', '.')]
